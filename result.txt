@@ -1,0 +1,81 @@
+
+Threads: 2, Array Size: 100000
+Sum of array elements: 495133500000
+The elapsed time is 8.312082 seconds
+
+Threads: 2, Array Size: 200000
+Sum of array elements: 990649800000
+The elapsed time is 11.270411 seconds
+
+Threads: 2, Array Size: 400000
+Sum of array elements: 1977842600000
+The elapsed time is 82.489862 seconds
+
+Threads: 2, Array Size: 600000
+Sum of array elements: 2970980700000
+The elapsed time is 19.103741 seconds
+
+Threads: 2, Array Size: 800000
+Sum of array elements: 3959313100000
+The elapsed time is 31.288193 seconds
+
+Threads: 4, Array Size: 100000
+Sum of array elements: 493796300000
+The elapsed time is 7.511581 seconds
+
+Threads: 4, Array Size: 200000
+Sum of array elements: 990732900000
+The elapsed time is 14.695129 seconds
+
+Threads: 4, Array Size: 400000
+Sum of array elements: 1979032600000
+The elapsed time is 77.852692 seconds
+
+Threads: 4, Array Size: 600000
+Sum of array elements: 2972590000000
+The elapsed time is 147.111895 seconds
+
+Threads: 4, Array Size: 800000
+Sum of array elements: 3955949100000
+The elapsed time is 277.715769 seconds
+
+Threads: 6, Array Size: 100000
+Sum of array elements: 496650400000
+The elapsed time is 15.386788 seconds
+
+Threads: 6, Array Size: 200000
+Sum of array elements: 993419600000
+The elapsed time is 26.798425 seconds
+
+Threads: 6, Array Size: 400000
+Sum of array elements: 1986636600000
+The elapsed time is 75.946884 seconds
+
+Threads: 6, Array Size: 600000
+Sum of array elements: 2966983700000
+The elapsed time is 130.850115 seconds
+
+Threads: 6, Array Size: 800000
+Sum of array elements: 3961196800000
+The elapsed time is 231.454227 seconds
+
+Threads: 8, Array Size: 100000
+Sum of array elements: 494208900000
+The elapsed time is 34.575170 seconds
+
+Threads: 8, Array Size: 200000
+Sum of array elements: 990380400000
+The elapsed time is 32.767067 seconds
+
+Threads: 8, Array Size: 400000
+Sum of array elements: 1978206600000
+The elapsed time is 57.067658 seconds
+
+Threads: 8, Array Size: 600000
+Sum of array elements: 2972189500000
+The elapsed time is 93.973552 seconds
+
+Threads: 8, Array Size: 800000
+Sum of array elements: 3958984200000
+The elapsed time is 144.155906 seconds
+
